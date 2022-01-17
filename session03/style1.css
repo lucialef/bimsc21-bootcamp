@@ -5,7 +5,7 @@
 
 #child-1 {  
     border: 5px;
-    border-color: rgb(111, 95, 252);
+    border-color: rgb(216, 216, 216);
     border-style:inset;
     border-radius: 5px;
     height: 50px;
@@ -14,23 +14,23 @@
 }
 
 #child-2 {
-    border: 3px dashed blue ;
-    border-radius: 5px;
-    height: 50px;
+    border: 2px dotted rgb(0, 0, 0) ;
+    border-radius: 10px;
+    height: 70px;
     width: 30%;
     box-sizing: border-box;
     float: left;
-    padding: 5px;
+    padding: 15px;
 
 }
 
 #child-3 {
-    border: 2px dotted green ;
+    border: 3px dashed rgb(241, 241, 241) ;
     border-radius: 5px;
     height: 50px;
     width: 70%;
     box-sizing: border-box;
     float: right;
-    padding: 5px;
+    padding: 15px;
 
     }
